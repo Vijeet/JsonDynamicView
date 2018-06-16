@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor">#435773</color>
+    <color name="white">#FFFFFF</color>
+    <color name="buttonBorder">#4A90E2</color>
+    <color name="linkColor">#0689FF</color>
+    <color name="checkboxNotSelectedColor">#d8d8d8</color>
+    <color name="checkboxSelectedColor">#0689ff</color>
+</resources>

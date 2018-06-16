@@ -1,0 +1,40 @@
+{
+	"views": [ 
+		{ 
+			"titleType": 0,
+			"title" : "Languages"
+		},
+		{ 
+			"titleType": 1,
+			"title" : "Interests"
+		},
+		{
+			"titleType": 7,
+			"title" : "Time Slots"
+		},
+		{ 
+			"titleType": 2,
+			"title" : "Region"
+		},
+		{
+			"titleType": 3,
+			"title" : "Genres"
+		},
+		{
+			"titleType": 4,
+			"title" : "Content"
+		},
+		{
+			"titleType": 5,
+			"title" : "Video Subscription"
+		},
+		{
+			"titleType": 6,
+			"title" : "DTH Provider"
+		}
+	]
+}
+
+
+
+	
